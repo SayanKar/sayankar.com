@@ -34,11 +34,11 @@
 ## Running Locally
 1. Clone this repository
    ```bash
-   git clone https://github.com/bonabrian/bonabrian.com.git
+   git clone https://github.com/SayanKar/sayankar.com.git
    ```
 2. Change directory
    ```bash
-   cd bonabrian.com
+   cd sayankar.com
    ```
 3. Install dependencies
    ```bash
